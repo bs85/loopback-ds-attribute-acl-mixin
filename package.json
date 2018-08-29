@@ -1,0 +1,13 @@
+{
+  "name": "loopback-ds-attribute-acl-mixin",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Bono-Stebler <bono.stebler@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "loopback": "^3"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
